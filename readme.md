@@ -10,8 +10,8 @@
 
 ## memo
 
-- [] CPU sensor
-- [] GPU sensor
+- [ ] CPU sensor
+- [x] GPU sensor
 - [x] 睿频 turbo boost
 - [x] 休眠唤醒
 
