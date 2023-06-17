@@ -1093,7 +1093,7 @@
 			<key>DisplayDelay</key>
 			<integer>0</integer>
 			<key>DisplayLevel</key>
-			<integer>2147483650</integer>
+			<integer>2147483714</integer>
 			<key>LogModules</key>
 			<string></string>
 			<key>SysReport</key>
@@ -1236,7 +1236,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>agdpmod=pikera keepsyms=1 -wegnoigpu</string>
+				<string>agdpmod=pikera keepsyms=1 -wegnoigpu lilucpu=17</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
