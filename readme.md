@@ -41,6 +41,7 @@
 # MEMO
 
 - OpenCore的选择器按空格才会展示其他选项。 Some options won't show unless space pressed.
+- 字体图标渲染发虚，关闭hdr解决。 Disable HDR can solve font blurry for me.
 
 # Reference
 
